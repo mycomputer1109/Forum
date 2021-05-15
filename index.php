@@ -1,3 +1,4 @@
+<!-- abcd -->
 <?php $active = 'Home'; // for navbar active link glow 
 ?>
 
@@ -128,7 +129,7 @@
     <?php require 'partials/_footer.php';  ?>
 
     <!-- All JS are kept in the footer -->
-    
+
 </body>
 
 </html>
